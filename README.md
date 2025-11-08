@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Qualified Accountant and Masters Student
 ----------------------------------------
 
-I'm a qualified accountant with a passion for numbers and a love for data. Currently, I'm completing my Master's in Data Science at the University of Malta, combining my financial expertise with cutting-edge data analytics and machine learning techniques.
+I'm a qualified accountant with a passion for numbers and a love for data. I have also completed an M.Sc. in Data Science at the University of Malta, combining my financial expertise with cutting-edge data analytics and machine learning techniques.
 
 ### Specialties
 
